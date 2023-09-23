@@ -1,7 +1,6 @@
 # Dmitriy Zhuravlev
 
 - **Email**: dzhuravlev@ukr.net
-- **Phone**: +380 xxx yyyyyyy
 - **GitHub**: [DZhura](https://github.com/DmitriyZhuravlev)
 - **LinkedIn**: [dmitriy-viktorovich-zhuravlev](https://www.linkedin.com/in/dmitriy-viktorovich-zhuravlev)
 
